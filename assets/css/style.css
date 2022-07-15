@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.a {
+    margin: 0;
+    padding: 10px 0 0 50px;
+}
+.b{
+    padding-top: 10px;
+}
+.btn{
+    background-color: #36B38B;
+    outline: none;
+}
+
+.btn:hover{
+    background-color: #18614a;
+}
+
+.btn-appointment{
+    margin: 20px 0;
+}
+
+
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+.bg-img{
+    margin: 0;
+    padding: 0;
+    background-image: url("../imgs/landing_bg.jpg");
+    image-rendering: optimizeQuality;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+}
+
+.modal{
+    color: black;
+}
+
+form{
+    color: black;
+}
